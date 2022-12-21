@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/mac/learn_techniques/errors.py", line 4, in <module>
+    raise Exception("this is the message")
+Exception: this is the message
